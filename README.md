@@ -1,4 +1,4 @@
-Gefen's chet 
+Gefen's chat 
 ===
 
 This application is made with Node.js, Express, Socket.io and Jade.
